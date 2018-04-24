@@ -33,5 +33,5 @@ Repo1 has been modified for demonstrating a git post-receive hook. The hook file
 ```
 
 Once any thing is pushed to this repository post-receive script also runs which can be used for variety of purposes such as
--Analysing comments
--Calling a Jenkins Job etc.
+- Analysing comments
+- Calling a Jenkins Job etc.
